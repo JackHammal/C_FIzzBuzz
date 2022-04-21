@@ -1,1 +1,2 @@
-# C_FIzzBuzz
+# C_FIzzBuzz Release beta
+FizzBuzz Kata
